@@ -1,7 +1,7 @@
 # Proyecto: Landing page 
 
 ## Descripción 
-La idea es hacer una landing page de algun producto/tema/evento para incluir en mi portafolio, usando HTML y CSS, tal vez JS.
+La idea es diseñar una landing page de algún producto/tema/evento usando HTML, CSS y tal vez JS, con el fin de incluirla en mi portafolio.
 
 ## Timeline
 
